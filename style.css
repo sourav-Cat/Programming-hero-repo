@@ -1,0 +1,16 @@
+
+    .blog{
+        background-color: aquamarine    ;
+        border: 5px solid rgb(59, 11, 2);
+        border-radius: 10px ;
+        margin: 10px; 
+        padding: 20px;
+        box-shadow: 20px 20px 20px 20px violet   ;
+    }
+.header{
+    height: 400px;
+    background-color: bisque;
+    background-image: url('ns.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+}
